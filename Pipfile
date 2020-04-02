@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 requests = "*"
 click = "*"
+contoml = "*"
 thoth-analyzer = "*"
 thoth-common = "*"
 attrs = "*"

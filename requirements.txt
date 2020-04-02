@@ -1,4 +1,5 @@
 click
+contoml
 thoth-analyzer
 thoth-common
 attrs
